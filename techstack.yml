@@ -1,0 +1,44 @@
+repo_name: ctavolazzi/sketchup-ruby-api-tutorials
+report_id: 7a090f1827de178968ffb2427a3f0dd9
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-15T02:01:05+00:00'
+requested_by: timlanier
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ctavolazzi/sketchup-ruby-api-tutorials
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ctavolazzi/sketchup-ruby-api-tutorials
+  detection_source: Repo Metadata
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/ctavolazzi/sketchup-ruby-api-tutorials/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Thomas Thomassen
+  last_updated_on: 2018-02-26 17:36:42.000000000 Z
